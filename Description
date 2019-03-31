@@ -1,4 +1,12 @@
 
 inject dependencies to both side- npm run inst
+if it would be needed hit the - npm audit fix
 
-running project- npm dev
+running project- npm run dev
+
+
+to make chenge:
+git add .
+git status
+git commit -m "hi !"
+git push -u origin master
