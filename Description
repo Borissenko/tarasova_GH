@@ -9,4 +9,6 @@ to make chenge:
 git add .
 git status
 git commit -m "hi !"
+
+git remote -v
 git push -u origin master
