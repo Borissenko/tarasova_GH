@@ -2,7 +2,8 @@
 inject dependencies to both side- npm run inst
 if it would be needed hit the - npm audit fix && cd client && npm audit fix
 
-running project from ROOT directory- npm run dev
+chenge head to ROOT again and then
+running project from ROOT directory- cd ../ && npm run dev
 
 
 to make chenge:
